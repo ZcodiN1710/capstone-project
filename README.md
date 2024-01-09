@@ -28,7 +28,7 @@ Real-time Updates: The reservation system incorporates real-time updates to prov
 # Installation
 
 1.Clone the Repository:
-git clone https://github.com/yourusername/little-lemon-reservation.git
+git clone https://github.com/ZcodiN1710/capstone-project
 2.Navigate to the Project Directory:
 cd little-lemon-reservation
 3.Install Dependencies:
